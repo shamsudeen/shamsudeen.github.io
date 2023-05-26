@@ -1,3 +1,42 @@
+html {
+  box-sizing: border-box;
+}
 body {
-    background-color: aliceblue;
+  color: #343434;
+  margin: 10;
+  padding: 0;
+  font-family: "Montserrat", sans-serif;
+  font-size: 17px;
+  line-height: 1.5;
+}
+body {
+  background-color: rgb(240, 255, 255);
+}
+
+#div1,
+#div2,
+#div3 {
+  font-family: "Courier New", Courier, monospace;
+  border: 2px solid rgb(95, 95, 192);
+}
+
+h1 {
+  text-align: center;
+}
+subtitle1 {
+  font-size: 1.5em;
+  background-color: #b0e0e6;
+  width: 100%;
+  margin: 0px 0px 0px 0px;
+  padding: 3px 9px 0px 0px;
+  color: rgb(128, 0, 128);
+}
+
+subtitle2 {
+  font-size: 1.5em;
+}
+#subtitle1,
+#subtitle2,
+#subtitle3 {
+  font-size: 1.5em;
 }
